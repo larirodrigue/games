@@ -34,7 +34,7 @@ elif computador == 1:
     elif jogador == 2:
         print('JOGADOR VENCE')
     else:
-        print('Jogada inválida, perdeu!!')
+        print('Jogada inválida, perdeu!')
 elif computador == 2:
     if jogador == 0:
         print('JOGADOR VENCE')
